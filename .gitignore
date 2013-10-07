@@ -1,4 +1,7 @@
 .rake_test_cache
+.DS_Store
+.chef/
+license.lic
 
 ###
 # Ignore Chef key files and secrets
